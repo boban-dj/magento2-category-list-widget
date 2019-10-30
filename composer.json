@@ -1,5 +1,5 @@
 {
-    "name": "emizentech/categorywidget",
+    "name": "boban-dj/categorywidget",
     "description": "Emizentech Category List Widget",
     "require": {
         "php": "~7.2"
